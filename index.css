@@ -6,3 +6,27 @@ body {
   font-family: 'Poppins', sans-serif;
   text-align: center;
 }
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ul {
+  list-style: none;
+}
+li a {
+  text-decoration: none;
+  margin-right: 32px;
+}
+.nav-bar-first-content ul li a {
+  color:#DDD;
+}
+.nav-bar-second-content ul li a {
+  color:#DDD
+}
+.nav-bar-login-text {
+  color: #A311A6;
+}
+.nav-bar-register-text {
+color: #7029E4;
+}
