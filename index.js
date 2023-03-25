@@ -1,0 +1,1 @@
+// Funções principais utilizadas no projeto
